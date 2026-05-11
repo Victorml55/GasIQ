@@ -1,0 +1,10 @@
+campo,valor
+fecha_procesamiento,2026-05-11 06:40:27
+fuente_precios,MongoDB Atlas - gasolinaiq.precios
+fuente_catalogo,REAL - lat/lon de Mongo + nearest-centroid
+total_documentos_leidos,13649
+estaciones_validas,13649
+descartadas_por_coordenadas,0
+registros_magna,12914
+registros_premium,11769
+registros_diesel,8510

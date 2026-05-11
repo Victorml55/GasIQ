@@ -1,0 +1,1093 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aguascalientes",
+        "ESTADO": "Aguascalientes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.86,
+              21.6
+            ],
+            [
+              -101.84,
+              21.6
+            ],
+            [
+              -101.84,
+              22.45
+            ],
+            [
+              -102.86,
+              22.45
+            ],
+            [
+              -102.86,
+              21.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baja California",
+        "ESTADO": "Baja California"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.13,
+              28.0
+            ],
+            [
+              -112.78,
+              28.0
+            ],
+            [
+              -112.78,
+              32.71
+            ],
+            [
+              -117.13,
+              32.71
+            ],
+            [
+              -117.13,
+              28.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baja California Sur",
+        "ESTADO": "Baja California Sur"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.2,
+              22.87
+            ],
+            [
+              -109.41,
+              22.87
+            ],
+            [
+              -109.41,
+              28.0
+            ],
+            [
+              -115.2,
+              28.0
+            ],
+            [
+              -115.2,
+              22.87
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campeche",
+        "ESTADO": "Campeche"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.46,
+              17.8
+            ],
+            [
+              -89.1,
+              17.8
+            ],
+            [
+              -89.1,
+              20.85
+            ],
+            [
+              -92.46,
+              20.85
+            ],
+            [
+              -92.46,
+              17.8
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiapas",
+        "ESTADO": "Chiapas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.14,
+              14.53
+            ],
+            [
+              -90.38,
+              14.53
+            ],
+            [
+              -90.38,
+              17.99
+            ],
+            [
+              -94.14,
+              17.99
+            ],
+            [
+              -94.14,
+              14.53
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chihuahua",
+        "ESTADO": "Chihuahua"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -109.07,
+              25.55
+            ],
+            [
+              -103.3,
+              25.55
+            ],
+            [
+              -103.3,
+              31.78
+            ],
+            [
+              -109.07,
+              31.78
+            ],
+            [
+              -109.07,
+              25.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ciudad de Mexico",
+        "ESTADO": "Ciudad de Mexico"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.36,
+              19.05
+            ],
+            [
+              -98.94,
+              19.05
+            ],
+            [
+              -98.94,
+              19.59
+            ],
+            [
+              -99.36,
+              19.59
+            ],
+            [
+              -99.36,
+              19.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coahuila",
+        "ESTADO": "Coahuila"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.97,
+              24.55
+            ],
+            [
+              -99.84,
+              24.55
+            ],
+            [
+              -99.84,
+              29.88
+            ],
+            [
+              -103.97,
+              29.88
+            ],
+            [
+              -103.97,
+              24.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colima",
+        "ESTADO": "Colima"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.69,
+              18.66
+            ],
+            [
+              -103.49,
+              18.66
+            ],
+            [
+              -103.49,
+              19.52
+            ],
+            [
+              -104.69,
+              19.52
+            ],
+            [
+              -104.69,
+              18.66
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durango",
+        "ESTADO": "Durango"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.18,
+              22.34
+            ],
+            [
+              -102.46,
+              22.34
+            ],
+            [
+              -102.46,
+              26.85
+            ],
+            [
+              -107.18,
+              26.85
+            ],
+            [
+              -107.18,
+              22.34
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guanajuato",
+        "ESTADO": "Guanajuato"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.1,
+              19.93
+            ],
+            [
+              -99.69,
+              19.93
+            ],
+            [
+              -99.69,
+              21.85
+            ],
+            [
+              -102.1,
+              21.85
+            ],
+            [
+              -102.1,
+              19.93
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guerrero",
+        "ESTADO": "Guerrero"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.18,
+              16.3
+            ],
+            [
+              -98.0,
+              16.3
+            ],
+            [
+              -98.0,
+              18.91
+            ],
+            [
+              -102.18,
+              18.91
+            ],
+            [
+              -102.18,
+              16.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidalgo",
+        "ESTADO": "Hidalgo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.88,
+              19.62
+            ],
+            [
+              -97.97,
+              19.62
+            ],
+            [
+              -97.97,
+              21.4
+            ],
+            [
+              -99.88,
+              21.4
+            ],
+            [
+              -99.88,
+              19.62
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jalisco",
+        "ESTADO": "Jalisco"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.69,
+              18.92
+            ],
+            [
+              -101.51,
+              18.92
+            ],
+            [
+              -101.51,
+              22.75
+            ],
+            [
+              -105.69,
+              22.75
+            ],
+            [
+              -105.69,
+              18.92
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico",
+        "ESTADO": "Mexico"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.59,
+              18.36
+            ],
+            [
+              -98.61,
+              18.36
+            ],
+            [
+              -98.61,
+              20.28
+            ],
+            [
+              -100.59,
+              20.28
+            ],
+            [
+              -100.59,
+              18.36
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michoacan",
+        "ESTADO": "Michoacan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.74,
+              17.91
+            ],
+            [
+              -100.07,
+              17.91
+            ],
+            [
+              -100.07,
+              20.41
+            ],
+            [
+              -103.74,
+              20.41
+            ],
+            [
+              -103.74,
+              17.91
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morelos",
+        "ESTADO": "Morelos"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.51,
+              18.33
+            ],
+            [
+              -98.62,
+              18.33
+            ],
+            [
+              -98.62,
+              19.13
+            ],
+            [
+              -99.51,
+              19.13
+            ],
+            [
+              -99.51,
+              18.33
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nayarit",
+        "ESTADO": "Nayarit"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.78,
+              20.62
+            ],
+            [
+              -103.71,
+              20.62
+            ],
+            [
+              -103.71,
+              23.78
+            ],
+            [
+              -105.78,
+              23.78
+            ],
+            [
+              -105.78,
+              20.62
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuevo Leon",
+        "ESTADO": "Nuevo Leon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -101.2,
+              23.18
+            ],
+            [
+              -98.43,
+              23.18
+            ],
+            [
+              -98.43,
+              27.81
+            ],
+            [
+              -101.2,
+              27.81
+            ],
+            [
+              -101.2,
+              23.18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oaxaca",
+        "ESTADO": "Oaxaca"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.55,
+              15.66
+            ],
+            [
+              -93.86,
+              15.66
+            ],
+            [
+              -93.86,
+              18.65
+            ],
+            [
+              -98.55,
+              18.65
+            ],
+            [
+              -98.55,
+              15.66
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puebla",
+        "ESTADO": "Puebla"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.07,
+              17.88
+            ],
+            [
+              -96.71,
+              17.88
+            ],
+            [
+              -96.71,
+              20.84
+            ],
+            [
+              -99.07,
+              20.84
+            ],
+            [
+              -99.07,
+              17.88
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queretaro",
+        "ESTADO": "Queretaro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.61,
+              20.01
+            ],
+            [
+              -99.04,
+              20.01
+            ],
+            [
+              -99.04,
+              21.66
+            ],
+            [
+              -100.61,
+              21.66
+            ],
+            [
+              -100.61,
+              20.01
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quintana Roo",
+        "ESTADO": "Quintana Roo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -89.32,
+              17.88
+            ],
+            [
+              -86.71,
+              17.88
+            ],
+            [
+              -86.71,
+              21.61
+            ],
+            [
+              -89.32,
+              21.61
+            ],
+            [
+              -89.32,
+              17.88
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Luis Potosi",
+        "ESTADO": "San Luis Potosi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.3,
+              21.16
+            ],
+            [
+              -98.33,
+              21.16
+            ],
+            [
+              -98.33,
+              24.5
+            ],
+            [
+              -102.3,
+              24.5
+            ],
+            [
+              -102.3,
+              21.16
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinaloa",
+        "ESTADO": "Sinaloa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -109.45,
+              22.46
+            ],
+            [
+              -105.39,
+              22.46
+            ],
+            [
+              -105.39,
+              27.04
+            ],
+            [
+              -109.45,
+              27.04
+            ],
+            [
+              -109.45,
+              22.46
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonora",
+        "ESTADO": "Sonora"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.07,
+              26.27
+            ],
+            [
+              -108.41,
+              26.27
+            ],
+            [
+              -108.41,
+              32.49
+            ],
+            [
+              -115.07,
+              32.49
+            ],
+            [
+              -115.07,
+              26.27
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabasco",
+        "ESTADO": "Tabasco"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.13,
+              17.27
+            ],
+            [
+              -91.02,
+              17.27
+            ],
+            [
+              -91.02,
+              18.66
+            ],
+            [
+              -94.13,
+              18.66
+            ],
+            [
+              -94.13,
+              17.27
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tamaulipas",
+        "ESTADO": "Tamaulipas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.13,
+              22.21
+            ],
+            [
+              -97.13,
+              22.21
+            ],
+            [
+              -97.13,
+              27.68
+            ],
+            [
+              -100.13,
+              27.68
+            ],
+            [
+              -100.13,
+              22.21
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tlaxcala",
+        "ESTADO": "Tlaxcala"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.71,
+              19.06
+            ],
+            [
+              -97.62,
+              19.06
+            ],
+            [
+              -97.62,
+              19.73
+            ],
+            [
+              -98.71,
+              19.73
+            ],
+            [
+              -98.71,
+              19.06
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veracruz",
+        "ESTADO": "Veracruz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.65,
+              17.15
+            ],
+            [
+              -93.62,
+              17.15
+            ],
+            [
+              -93.62,
+              22.46
+            ],
+            [
+              -98.65,
+              22.46
+            ],
+            [
+              -98.65,
+              17.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yucatan",
+        "ESTADO": "Yucatan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90.42,
+              19.55
+            ],
+            [
+              -87.53,
+              19.55
+            ],
+            [
+              -87.53,
+              21.62
+            ],
+            [
+              -90.42,
+              21.62
+            ],
+            [
+              -90.42,
+              19.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zacatecas",
+        "ESTADO": "Zacatecas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.36,
+              21.04
+            ],
+            [
+              -100.81,
+              21.04
+            ],
+            [
+              -100.81,
+              25.13
+            ],
+            [
+              -104.36,
+              25.13
+            ],
+            [
+              -104.36,
+              21.04
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
